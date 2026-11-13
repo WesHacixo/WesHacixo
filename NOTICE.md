@@ -4,7 +4,7 @@
 
 This repository includes original creative prose and artwork published by **WesHacixo**.
 
-- The files `README.md` and `assets/dhammacode-hero.svg` are licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+- The files `README.md`, `assets/dhammacode-hero.svg`, and `assets/monk-in-wu.svg` are licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 - The full legal text is provided in `LICENSE` (canonical source: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt).
 
 ## Rights clarification
