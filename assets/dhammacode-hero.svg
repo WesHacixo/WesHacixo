@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">DhammaCode hero illustration</title>
+  <desc id="desc">An ensō-inspired circle and quiet sand-garden lines in midnight, violet, eggshell, and copper tones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#131327"/>
+      <stop offset="100%" stop-color="#1C1530"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <path d="M 600 100 A 110 110 0 1 1 599.9 100" fill="none" stroke="#ECE7D5" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+  <path d="M 678 177 C 650 140 600 128 560 140" fill="none" stroke="#6D5A96" stroke-width="7" stroke-linecap="round" opacity="0.75"/>
+  <path d="M 0 310 Q 150 300 300 310 T 600 310 T 900 310 T 1200 310" fill="none" stroke="#ECE7D5" stroke-width="2" opacity="0.55"/>
+  <path d="M 0 334 Q 150 324 300 334 T 600 334 T 900 334 T 1200 334" fill="none" stroke="#ECE7D5" stroke-width="2" opacity="0.36"/>
+  <circle cx="827" cy="252" r="8" fill="#B87333" opacity="0.9"/>
+</svg>
