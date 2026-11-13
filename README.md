@@ -30,6 +30,12 @@ The sisters replied: "First, why must you?"
 
 Nobody was expelled; everyone left with better tests and slightly fewer certainties.
 
+### The Monk, in wú
+
+![A scruffy, round-bellied monk sits meditating beneath a crooked tree, while an unfinished ink circle leaves room for myriad possibilities.](assets/monk-in-wu.svg)
+
+*Nothing to grasp. Nothing to exclude. A little room for possibility.*
+
 ## The Practice
 
 - Name what is known, and mark what is guessed.
